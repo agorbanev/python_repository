@@ -1,0 +1,12 @@
+ Cross-validation: Number_of_Folds  = 3
+ Features Transform Method = PCA
+ Number of Components = 3
+Test 1
+ Components Explaine Variance Ratio :
+0.927   0.055   0.015
+Test 2
+ Components Explaine Variance Ratio :
+0.927   0.052   0.016
+Test 3
+ Components Explaine Variance Ratio :
+0.917   0.055   0.021

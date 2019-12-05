@@ -1,0 +1,11 @@
+ Cross-validation: Number_of_Folds 3
+Clustering algorithm - KMeans
+Number of Clusters 3
+Test 1
+ Adj_Rand_Index = 0.738     Adj_Mutual_info = 0.781     V_Measure = 0.796     Siluette_Coef = 0.56     Calinski_Harabaz_Index = 377.657
+Test 2
+ Adj_Rand_Index = 0.762     Adj_Mutual_info = 0.762     V_Measure = 0.77     Siluette_Coef = 0.546     Calinski_Harabaz_Index = 361.786
+Test 3
+ Adj_Rand_Index = 0.816     Adj_Mutual_info = 0.826     V_Measure = 0.838     Siluette_Coef = 0.554     Calinski_Harabaz_Index = 383.439
+Full Dataset Test 
+ Adj_Rand_Index = 0.73     Adj_Mutual_info = 0.748     V_Measure = 0.758     Siluette_Coef = 0.553     Calinski_Harabaz_Index = 560.4

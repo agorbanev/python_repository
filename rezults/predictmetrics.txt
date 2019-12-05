@@ -1,0 +1,6 @@
+average method - micro
+ MSE = 1.325
+ accuracy = 0.583
+ F_score = 0.583
+ recall = 0.583
+ precision = 0.583

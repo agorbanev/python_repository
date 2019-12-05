@@ -1,0 +1,16 @@
+ Cross-validation: Number_of_Folds  = 3
+ All Features Number  = 4
+ Features Selection Method = Percentile
+ Percents of Features to Select = 50%
+Test 1
+ Features Scores :
+6.59   1.817   65.175   36.887
+Selected Features Indexes 2   3
+Test 2
+ Features Scores :
+8.555   2.763   90.185   51.262
+Selected Features Indexes 2   3
+Test 3
+ Features Scores :
+6.524   2.399   76.525   46.362
+Selected Features Indexes 2   3
